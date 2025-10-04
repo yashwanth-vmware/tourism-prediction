@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+xgboost
+huggingface_hub
+joblib
+streamlit
+mlflow==3.0.1 # Specify the exact version used during training
